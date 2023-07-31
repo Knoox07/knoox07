@@ -1,11 +1,10 @@
 <h2 align="center">Opa! Beleza? Seja bem-vindo(a) ao meu perfil no Github </h1>
 
+Meu nome é Rian, sou um pernambucano de 28 anos de idade, mas por nas Webs eu uso o nickname de <b>Knoox07</b> 
 
-Meu nome é Rian, sou um pernambucano de 28 anos de idade, mas por aqui nesse mundo chamado de internet eu uso o nickname de *_Knoox07_*. 
+Meu primeiro contato com informática foi em 2005 quando joguei pela primeira vez o <b>Need for Speed: Most Wanted</b> na casa de um amigo, daquele dia em diante eu sabia que tecnologia era algo que eu queria pra minha vida. Mas nem sempre as coisas foram fáceis por aqui... Eu fui ter meu primero PC em 2011 e no ano de 2015 eu participei de um processo seletivo pela empresa Accenture e daí em diante foi quando comecei minha trajetória na vida de TI, na Área de Qualidade pra ser mais expecífico.
 
-Meu primento contato com informática foi em 2005 quando joguei pela primeira vez o Need for Speed: Most Wanted na casa de um amigo, daquele dia em diante eu sabia que tecnologia era algo que eu queria pra minha vida. Mas nem sempre as coisas foram fáceis por aqui... Eu fui ter meu primero PC em 2011 e no ano de 2015 eu participei de um processo seletivo pela empresa Accenture e daí em diante foi quando comecei minha trajetória na vida de TI, na Área de Qualidade pra ser mais expecífico.
-
-Já me apresentei um pouco acima, mas tem mais coisas, então vamos lá 😅
+Já me apresentei um pouco no pequeno paragráfico acima, mas tem mais coisas, então... vamos lá 👊🏻
 
 - 💻 Sou Analista de Sistema com atuação na área de Qualidade de Software e estou nessa vida de QA desde 2015... Totalizado 7 anos de experiência e nesses anos de experiência na área de TI eu tive contato e/ou trabalhei/trabalho com algumas <b>Linguagens, IDE's, Tecnologias e Ferramentas</b> entre elas estão:
   
@@ -52,7 +51,7 @@ Já me apresentei um pouco acima, mas tem mais coisas, então vamos lá 😅
 
 - 🤖 Nas horas vagas entre trabalho e faculdade, quando não estou jogando uns games aí com uns amigos do clã _<b>CIRCO SEM FUTURO</b>_ lá no <b><a href="https://discord.com/">Discord</a></b>, eu gosto de automatizar ou programar algumas coisas pra mim mesmo e vejo situações do dia a dia onde posso aplicar alguma codificação para "facilitar" algumas coisa da rotina.
 
-- ❤️ Sou apaixonado por Cyber Segurança, Redes de Computadores, Inteligência Artifical e também estudar Hacker Ético (_Ataque x Defesa_) ... Depois que tive algumas contas de Redes Sociais invadidas, inclusive o canal do Youtube da igreja que congrego atualmente, foi quando comeceu a me interessar pela segurança web e protocolos TCP's IP's.
+- ❤️ Sou apaixonado por Cyber Segurança, Redes de Computadores, Inteligência Artifical e também ando estudando bastante sobre <b>Ataque vs Defesa</b> dentro do Hacker Ético (e quero me especializar nessa camada da tecnologia) pois depois que tive algumas contas de Redes Sociais invadidas, inclusive o canal do Youtube da igreja que congrego atualmente, foi quando comecei a me interessar pela segurança web e protocolos TCP's IP's.
 
 - 📹 Tenho alguns Hobbies como: Música, Fotografia, Edição de Fotos e Vídeos, Games, operador de Áudio e técnico de Multimídia.
 
