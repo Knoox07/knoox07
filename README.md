@@ -64,7 +64,3 @@
   
   </p>
 </p>
-
-<p align="center">
-<img src="img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" width="150" />
-</p>
