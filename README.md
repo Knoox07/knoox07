@@ -49,7 +49,7 @@ Já me apresentei um pouco no pequeno paragráfico acima, mas tem mais coisas, e
   <a href="https://www.adobe.com/br"><img alt="Audition" src="https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe-Audition&logoColor=white"/></a>
   <a href="https://www.canva.com/pt_br"><img alt="Canvas" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/></a>
 
-- 🤖 Nas horas vagas entre trabalho e faculdade, quando não estou jogando uns games aí com uns amigos do clã _<b>CIRCO SEM FUTURO</b>_ lá no <b><a href="https://discord.com/">Discord</a></b>, eu gosto de automatizar ou programar algumas coisas pra mim mesmo e vejo situações do dia a dia onde posso aplicar alguma codificação para "facilitar" algumas coisa da rotina.
+- 🤖 Nas horas vagas entre trabalho e faculdade, quando não estou jogando uns games aí com uns amigos do clã _<b>CIRCO SEM FUTURO</b>_ lá no <b><a href="https://discord.com/">Discord</a></b>, eu gosto de automatizar ou programar algumas coisas pra mim mesmo e vejo situações do dia a dia onde posso aplicar alguma codificação para "facilitar" algumas coisas da rotina.
 
 - ❤️ Sou apaixonado por Cyber Segurança, Redes de Computadores, Inteligência Artifical e também ando estudando bastante sobre <b>Ataque vs Defesa</b> dentro do Hacker Ético (e quero me especializar nessa camada da tecnologia) pois depois que tive algumas contas de Redes Sociais invadidas, inclusive o canal do Youtube da igreja que congrego atualmente, foi quando comecei a me interessar pela segurança web e protocolos TCP's IP's.
 
