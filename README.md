@@ -1,6 +1,6 @@
 <h2 align="center">Opa! Beleza? Seja bem-vindo(a) ao meu perfil no Github </h1>
 
-Meu nome é Rian, sou um pernambucano de 28 anos de idade, mas por nas Webs eu uso o nickname de <b>Knoox07</b> 
+Meu nome é Rian, sou um pernambucano de 28 anos de idade, mas aqui nesse mundo da World Wide Web você eu uso o nickname de <b>Knoox07</b> 
 
 Meu primeiro contato com informática foi em 2005 quando joguei pela primeira vez o <b>Need for Speed: Most Wanted</b> na casa de um amigo, daquele dia em diante eu sabia que tecnologia era algo que eu queria pra minha vida. Mas nem sempre as coisas foram fáceis por aqui... Eu fui ter meu primero PC em 2011 e no ano de 2015 eu participei de um processo seletivo pela empresa Accenture e daí em diante foi quando comecei minha trajetória na vida de TI, na Área de Qualidade pra ser mais expecífico.
 
